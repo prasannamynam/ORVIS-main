@@ -1,0 +1,56 @@
+{
+    "V_SHAPE": {
+        "type": "batch",
+        "enabled": true,
+        "path": "C:/Users/revan/c.bat"
+    },
+    "THUMBS_UP": {
+        "type": "batch",
+        "path": "C:/Users/revan/ch.bat",
+        "enabled": true
+    },
+    "NEXT_TAB": {
+        "type": "hotkey",
+        "keys": [
+            "ctrl",
+            "tab"
+        ],
+        "enabled": true
+    },
+    "PREVIOUS_TAB": {
+        "type": "hotkey",
+        "keys": [
+            "ctrl",
+            "shift",
+            "tab"
+        ],
+        "enabled": true
+    },
+    "NEW_TAB": {
+        "type": "hotkey",
+        "keys": [
+            "ctrl",
+            "t"
+        ],
+        "enabled": true
+    },
+    "CLOSE_TAB": {
+        "type": "hold_hotkey",
+        "modifier": "alt",
+        "key": "tab",
+        "enabled": true
+    },
+    "PALM_PALM": {
+        "type": "hotkey",
+        "keys": [
+            "ctrl",
+            "w"
+        ],
+        "enabled": true
+    },
+    "ROCK_SIGN": {
+        "type": "batch",
+        "enabled": true,
+        "path": "C:/Users/revan/w.bat"
+    }
+}

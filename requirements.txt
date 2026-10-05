@@ -1,0 +1,5 @@
+opencv-python>=4.9.0
+mediapipe>=1.0.1
+Pillow>=10.0.0
+pytest>=8.0.0
+pyautogui>=0.9.54
